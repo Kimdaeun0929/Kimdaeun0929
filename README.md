@@ -32,8 +32,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="mailto:2289037@pcu.ac.kr">
+  <a href="mailto:kimdaeun384@gmail.com">
     <img
-      src="https://img.shields.io/badge/2289037@pcu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/kimdaeun384@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://kimdaeun0929portfolio.notion.site/623f4e1ad1d044d6b3f2c9c317940d37?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
 </div>
