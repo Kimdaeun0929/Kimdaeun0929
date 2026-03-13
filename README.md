@@ -32,9 +32,6 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://dan-programming.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-F05033.svg?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:2289037@pcu.ac.kr">
     <img
       src="https://img.shields.io/badge/2289037@pcu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
